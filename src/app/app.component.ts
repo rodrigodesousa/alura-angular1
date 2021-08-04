@@ -12,7 +12,7 @@ export class AppComponent {
 
   }
 
-  transferir($event){
-    this.service.adicionar($event)
-  }
+  // transferir($event){
+  //   this.service.adicionar($event)
+  // }
 }
